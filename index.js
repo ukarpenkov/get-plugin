@@ -9,4 +9,3 @@ slider1.init();
 
 (0, initSlider)(".slider-page");
 (0, initTooltips)();
-console.log('fff')
